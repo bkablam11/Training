@@ -12,5 +12,10 @@
 
 # installation
 1. install visual studio
-https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false
-2. 
+https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false  ##Une fois l'installateur, nous allons l'exécuter et sélectionner le "Développement de bureau avec C++".
+2. package python à installer
+cmake
+dlib
+face_recognition
+numpy
+opencv-python
