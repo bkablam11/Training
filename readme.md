@@ -15,7 +15,21 @@
 https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false  ##Une fois l'installateur, nous allons l'exécuter et sélectionner le "Développement de bureau avec C++".
 2. package python à installer
 cmake
-dlib
+dlib==19.18.0
 face_recognition
 numpy
 opencv-python
+
+3. Installation
+python -m venv myvenv
+myvenv\Scripts\activate
+pip install -r requirements.txt
+
+4. Install dlib
+https://www.youtube.com/watch?v=eaEndTeUiSU
+
+Using legacy 'setup.py install' for dlib, since package 'wheel' is not installed.                                       Installing collected packages: dlib                                                                                         Running setup.py install for dlib ... done                                                                          Successfully installed dlib-19.18.0 
+
+5. Guide d'utilisation
+Creer un dossier nommer ImagesBasic et y mettre les photos des employers
+Mettre toutes les images des employers dans le dossier image renommer avec leur nom respectif
