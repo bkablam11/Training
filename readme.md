@@ -33,3 +33,8 @@ Using legacy 'setup.py install' for dlib, since package 'wheel' is not installed
 5. Guide d'utilisation
 Creer un dossier nommer ImagesBasic et y mettre les photos des employers
 Mettre toutes les images des employers dans le dossier image renommer avec leur nom respectif
+
+6. utiliser le smartphone comme webcam
+installer ivcam sur android et sur ordinateur
+https://www.e2esoft.com/ivcam/
+https://www.youtube.com/watch?v=je0OxlL0ETs
